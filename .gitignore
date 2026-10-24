@@ -1,0 +1,32 @@
+# build output
+/dist/
+
+# generated tool metadata
+.astro/
+.vite/
+
+# dependencies
+node_modules/
+
+# logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# local environment
+.env
+.env.*
+!.env.example
+
+# editor and OS junk
+.vscode/
+.DS_Store
+.idea/
+
+# screenshots and local exports
+*.log
+*.tmp
+*.bak
+*.orig
+
